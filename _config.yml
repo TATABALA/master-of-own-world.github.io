@@ -54,3 +54,6 @@ regenerate:       true
 plugins:
   - jekyll-feed
   - jemoji
+
+toc:
+  enable: true
