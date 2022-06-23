@@ -56,4 +56,4 @@ plugins:
   - jemoji
 
 toc:
-  enable: true
+  enabled: true
